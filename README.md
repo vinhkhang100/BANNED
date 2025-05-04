@@ -1,1 +1,3 @@
-# BANNED
+return {
+  
+}
